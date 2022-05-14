@@ -62,5 +62,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+    
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>We need to access photos to add meal images</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>We need to access photos to add meal images</string>
+    
 </dict>
 </plist>

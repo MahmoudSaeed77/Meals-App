@@ -79,3 +79,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 }
 
+@available(iOS 13.0, *)
+let app_del = UIApplication.shared.delegate as! AppDelegate
+@available(iOS 13.0, *)
+let context = app_del.persistentContainer.viewContext
